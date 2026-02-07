@@ -15,19 +15,19 @@ On Instagram, I got 4.1 million views of my personal brand. This led to about 20
 
 # Q3 Tell us about things you've built before. For example apps you've built, websites, open source contributions. Include URLs if possible.
 
-- RL maze solver (agent-organism) — Q-learning from scratch, custom physics engine, no pre-built ML frameworks. 50.1 hours. https://github.com/jonathan-chamberlin/agent-organism
+- Reinforcement learning maze solver: Created custom physics engine and implemented Q-learning algorithm from scratch, no pre-built ML frameworks.
+    - https://github.com/jonathan-chamberlin/agent-organism
 
-- Lunar lander RL project — DDPG for continuous control environments, currently in progress
+- Event Sales Agency sales tracking system: Created and enforced first-ever rep activity reporting, commission/payroll, dials/talk-time tracking
+    - https://docs.google.com/document/d/1QDB2NegJhjU2zyjMDaKwAy2sbE84G58f0lkXWmMRkYQ/edit?usp=sharing
 
-- Event Sales Agency sales tracking system — first-ever rep activity reporting, commission/payroll, dials/talk-time tracking
-
-- Eagle Scout pull-up station — designed 3D CAD model and 2D technical drawings on Autodesk Inventor, costed BOM, raised $1,416 door-to-door in one week, led 5-person construction team over 5 workdays
+- Eagle Scout pull-up station: designed 3D CAD model and 2D technical drawings on Autodesk Inventor, raised $1,416 door-to-door in one week, led 5-person construction team over 5 workdays.
+    - https://drive.google.com/drive/folders/1ccLnkm81cP6Xgkmx9qPfVC7bmP9IQJxe?dmr=1&ec=wgc-drive-hero-goto
 
 # Q4 List any competitions/awards you have won, or papers you've published.
 - Eagle Scout (Boy Scouts of America)
-- Dean's Scholarship (Northeastern University, 2021-2023)
+- Dean's Scholarship (Northeastern University, 2021-2026)
 - Dean's List of Academic Excellence (Northeastern, Fall 2022)
-- OSHA 10 certified
 
 ## You're being asked the following questions because you're 25 or under.
 
@@ -36,7 +36,7 @@ On Instagram, I got 4.1 million views of my personal brand. This led to about 20
 - Northeastern GPA 3.584 (current, Data Science)
 
 # Q6 List any entrepreneurship programs, clubs, or hacker houses you have participated in or are currently participating in.
-- Joel Kaplan's Agency Accelerator — SMMA coaching, became the go-to cold email expert, taught masterclasses
-- Freedom Closer Academy by Bridger Rogers — sales training with 1-on-1 coaching
-- Men of Action — member and employee, mentoring program, Vegas Immersion bootcamp
-- Accountability Mastermind (Sept-Oct 2025)
+- Joel Kaplan's Agency Accelerator: Social media marketing coaching program, became the go-to cold email expert, taught masterclasses
+- Freedom Closer Academy: sales training with 1-on-1 coaching
+- Men of Action: Mentoring program teaching networking, charisma, and hosting events
+- Accountability Mastermind: Led weekly accountability meetings with 5 other entrepreneurs.
