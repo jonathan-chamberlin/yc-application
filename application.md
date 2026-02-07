@@ -1,44 +1,74 @@
-(archived)
+# Company
+Sidequest
 
-# Accomplishments
+## Describe what your company does in 50 characters or less.
+Helps college students find events and communities to make friends.
 
-# Q1 Please tell us about a time you most successfully hacked some (non-computer) system to your advantage.
-At call center startup Event Sales Agency, I increased our calls center phone pickup rate from 5% to 70% (14x). Since most people didn't answer the phone, our salespeople were spending way too much time waiting for someone to pickup. So I designed live transfer system, trained the virtual assistants and sales reps, and deployed the it successfully. Additionally, I sorted phone numbers based on mobile, toll-free, and VoIP, and had our salespeople call in that order, increasing the pickup rate more.
+## Company URL, if any
 
-At the same company, our salespeople were burning out from working 60 hours per week. So I analyzed 13,000 sales transactions to find the 40 best hours to sell, then restructured the team schedule. We kept revenue within 5% of revenue while reps worked 20 fewer hours/week, greatly increasing employee satisfaction.
+## Demo Video
+No video uploaded
 
-At my marketing agency Rocket Rise, I created a cold email system sending 2,900 emails/day. I also built and automation which read email replies, and if it was positive it sent me a slack message, letting me call prospects in 60 seconds. This was important because it greatly increased the pickup rate.
+## Please provide a link to the product, if any.
+https://www.sidequest.boston/
 
-# Q2 Please tell us in one or two sentences about the most impressive thing other than this startup that you have built or achieved.
+## What is your company going to make? Please describe your product and what it does or will do.
+A software that shows college events in your city (currently boston). 
 
-Ranked #1 salesperson on 2 separate teams (top of 15 door-to-door solar reps at Lumio, top of 4 phone reps at Men of Action), generating $647,473+ in revenue. My revenue per month was twice the team average. I worked hard and spoke to 68.7% more prospects each week than average rep. I trained 8 new reps and helped 5 of them get their first deal in their first week.
+## Where do you live now, and where would the company be based after YC?
 
-On Instagram, I got 4.1 million views of my personal brand. This led to ~20 sales people reaching out asking to work on my sales team. 
+## Explain your decision regarding location.
 
-# Q3 Tell us about things you've built before. For example apps you've built, websites, open source contributions. Include URLs if possible.
+# Progress
 
-Event Sales Agency sales tracking system: Created and enforced first-ever rep activity reporting, commission/payroll, dials/talk-time tracking
-- https://docs.google.com/document/d/1QDB2NegJhjU2zyjMDaKwAy2sbE84G58f0lkXWmMRkYQ/edit?usp=sharing
+## How far along are you?
 
-Eagle Scout pull-up station: designed 3D CAD model and 2D technical drawings on Autodesk Inventor, raised $1,416 door-to-door in one week, led 5-person construction team over 5 workdays.
-- https://drive.google.com/drive/folders/1ccLnkm81cP6Xgkmx9qPfVC7bmP9IQJxe?dmr=1&ec=wgc-drive-hero-goto
+## How long have each of you been working on this? How much of that has been full-time? Please explain.
 
-Reinforcement learning maze solver: Created custom physics engine and implemented machine learning algorithm from scratch, no pre-built ML frameworks.
-- https://github.com/jonathan-chamberlin/agent-organism
+## What tech stack are you using, or planning to use, to build this product? Include AI models and AI coding tools you use.
 
-# Q4 List any competitions/awards you have won, or papers you've published.
-Eagle Scout (Boy Scouts of America)
-Dean's Scholarship (Northeastern University, 2021-2026)
-Dean's List of Academic Excellence (Northeastern, Fall 2022)
+## Optional: attach a coding agent session you're particularly proud of.
 
-## You're being asked the following questions because you're 25 or under.
+## Are people using your product?
 
-# Q5 List any relevant or impressive test scores.
-SAT: 1440
-Northeastern GPA: 3.584 (Data Science)
+## When will you have a version people can use?
 
-# Q6 List any entrepreneurship programs, clubs, or hacker houses you have participated in or are currently participating in.
-Agency Accelerator: Social media marketing coaching program, became the go-to cold email expert, taught masterclasses
-Freedom Closer Academy: sales training with 1-on-1 coaching
-Men of Action: Mentoring program teaching networking, charisma, social media, and event hosting
-Accountability Mastermind: Led weekly accountability meetings with 5 other entrepreneurs.
+## Do you have revenue?
+
+## If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
+
+## If you have already participated or committed to participate in an incubator, "accelerator" or "pre-accelerator" program, please tell us about it.
+
+# Idea
+
+## Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+
+
+## Who are your competitors? What do you understand about your business that they don't?
+Eventbrite. We understand that students feel better going to specifically college events instead of professional events. We list casual events too like brunch meetups, pickup basketball games, study sessions, and run clubs. 
+
+## How do or will you make money? How much could you make?
+
+
+## Which category best applies to your company?
+
+## If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
+
+# Equity
+
+## Have you formed ANY legal entity yet?
+
+## Have you taken any investment yet?
+
+## Are you currently fundraising?
+
+# Curious
+
+## What convinced you to apply to Y Combinator? Did someone encourage you to apply? Have you been to any YC events?
+
+## How did you hear about Y Combinator?
+
+# Batch Preference
+
+## What batch do you want to apply for?
+current

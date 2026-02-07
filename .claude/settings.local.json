@@ -14,7 +14,8 @@
       "Bash(del \"\\\\?\\\\c:\\\\Repositories for Git\\\\yc_application\\\\nul\")",
       "Bash(cmd /c \"del \\\\?\\\\c:\\\\Repositories for Git\\\\yc_application\\\\nul\")",
       "Bash(cmd /c \"del /f /q \"\"\\\\?\\\\c:\\\\Repositories for Git\\\\yc_application\\\\nul\"\"\")",
-      "Bash(test:*)"
+      "Bash(test:*)",
+      "Bash(gh repo edit:*)"
     ]
   }
 }
