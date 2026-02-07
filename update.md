@@ -1,0 +1,1 @@
+Live version at https://docs.google.com/document/d/1L8-3fooSuM6Ww6ZF0yvoV9DWLaBxDK9C9oJpEcELRsM/edit?usp=sharing

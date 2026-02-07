@@ -1,3 +1,5 @@
+(archived)
+
 # Accomplishments
 
 # Q1 Please tell us about a time you most successfully hacked some (non-computer) system to your advantage.
@@ -9,7 +11,7 @@ At my marketing agency Rocket Rise, I created a cold email system sending 2,900 
 
 # Q2 Please tell us in one or two sentences about the most impressive thing other than this startup that you have built or achieved.
 
-Ranked #1 salesperson on 2 separate teams (top of 15 door-to-door solar reps at Lumio, top of 4 phone reps at Men of Action), generating $647,473+ in revenue. My revenue per month was twice the team average. I worked hard and spoke to 68.7% more prospects each week than average rep.
+Ranked #1 salesperson on 2 separate teams (top of 15 door-to-door solar reps at Lumio, top of 4 phone reps at Men of Action), generating $647,473+ in revenue. My revenue per month was twice the team average. I worked hard and spoke to 68.7% more prospects each week than average rep. I trained 8 new reps and helped 5 of them get their first deal in their first week.
 
 On Instagram, I got 4.1 million views of my personal brand. This led to ~20 sales people reaching out asking to work on my sales team. 
 
