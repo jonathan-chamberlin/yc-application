@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git config:*)",
+      "Bash(dir:*)",
+      "Bash(del \"\\\\?\\\\c:\\\\Repositories for Git\\\\yc_application\\\\nul\")",
+      "Bash(cmd /c \"del \\\\?\\\\c:\\\\Repositories for Git\\\\yc_application\\\\nul\")",
+      "Bash(cmd /c \"del /f /q \"\"\\\\?\\\\c:\\\\Repositories for Git\\\\yc_application\\\\nul\"\"\")",
+      "Bash(test:*)"
+    ]
+  }
+}
