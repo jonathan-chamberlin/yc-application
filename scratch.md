@@ -1,0 +1,2 @@
+What would i even do? I want to contribute value but i'm more interested in pursuiing ML instead of marketing
+- Nishanth says that right now we're just focusing on getting past screening with our resumes, and my resume is most stacked in terms of marketing. Once we're in YC, we can change and I can get into the tech side.
